@@ -3,7 +3,7 @@ package nl.utwente.di;
 public class Quoter {
 	public double getBookPrice(String isbn) {
 		if (isbn.equals("1")) {
-			return 10.0;
+			return 11.0;
 		} else if (isbn.equals("2")) {
 			return 45.0;
 		} else if (isbn.equals("3")) {
